@@ -1,0 +1,30 @@
+
+/* font-family: Carter_One */
+@font-face {
+    font-family: Carter_One;
+    src: url('../font/Carter_One/CarterOne-Regular.ttf');
+}
+
+/* font-family: Inter */
+@font-face {
+    font-family: Inter;
+    src: url('../font/Inter/static/Inter-Medium.ttf');
+}
+
+/* font-family: Lato */
+@font-face {
+    font-family: Lato;
+    src: url('../font/Lato/Lato-Black.ttf');
+}
+
+/* font-family: Lobster_Two */
+@font-face {
+    font-family: Lobster_Two;
+    src: url('../font/Lobster_Two/LobsterTwo-Regular.ttf');
+}
+
+/* font-family: Lora */
+@font-face {
+    font-family: Lora;
+    src: url('../font/Lora/static/Lora-Regular.ttf');
+}
